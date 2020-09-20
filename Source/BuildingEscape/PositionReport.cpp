@@ -21,6 +21,8 @@ void UPositionReport::BeginPlay()
 
 	// ...
 
+GetOwner
+
 	UE_LOG(LogTemp, Warning, TEXT("Position report reporting for duty on Chair"));
 	
 }
